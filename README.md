@@ -1,4 +1,4 @@
 # get-started-selenium
 
-**Chrome driver:
+Chrome driver:
 https://chromedriver.chromium.org/downloads
